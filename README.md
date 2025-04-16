@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dubthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="dubthecoder" /> </p>
 
-- 🔭 I’m currently working at **OMERS**
+- 🔭 I’m currently the Founder of **Teclara Technologies**
 
 - 🌱 I’m currently learning **Python and Terraform**
 
